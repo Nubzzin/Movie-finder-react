@@ -15,7 +15,7 @@ function MovieCard({ movie }) {
         <div className="movie-card">
             <div className="movie-poster">
                 <img
-                    src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`}
+                    src={`${movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : "https://digest.med.br/wp-content/uploads/2024/07/no-image.jpg"}`}
                     alt={movie.title}
                 />
                 <div className="movie-overlay">
