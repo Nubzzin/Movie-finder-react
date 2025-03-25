@@ -46,6 +46,7 @@
 }
 
 .movies-grid > * {
+    margin: 0 auto;
     max-inline-size: 400px;
     animation: fadeIn 0.3s ease-out forwards;
 }
