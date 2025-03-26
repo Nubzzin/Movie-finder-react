@@ -8,10 +8,11 @@ Making a Movie Finder app with React. This project has the intention to build kn
 
 ## ScreenShots:
 
-
-
 ### Main Screen:
-![tela_index](public/movie.png)
-![tela_index](public/finder.png)
+![screen index](public/movie.png)
+![screen index](public/finder.png)
 
 ### Favorites Screen:
+![screen favorites](public/favorites3.png)
+![screen favorites](public/favorites1.png)
+![screen favorites](public/favorites2.png)
