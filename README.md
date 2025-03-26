@@ -3,6 +3,7 @@
 Making a Movie Finder app with React. This project has the intention to build knowledge over React projects.
   - API integration (TMDB)
   - Search for movies
+  - Favorite movies
   - Minimalistc UI
   - Good practices of React
 
